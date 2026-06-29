@@ -13,6 +13,6 @@ A simple and attractive web page built using **HTML** and **CSS** that displays 
 - HTML5
 - CSS3
 
-## 👨‍💻 Author
+## Author
 Kiruthika Ravichandran
 BE Computer Science Engineering
